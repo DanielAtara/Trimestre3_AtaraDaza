@@ -1,10 +1,14 @@
-*{
-    padding: 0px;
-    margin: 0px;
+* {
+    font-family: 'lobster',cursive;
+    color: #000;
 }
 .contact-form{
     font-size: 25px;
-    background-color: black;
+    background-color: rgb(46, 46, 135);
     width: 100vw;
     
+}
+.contact-form__h2{
+    font: size 2em;
+   
 }
